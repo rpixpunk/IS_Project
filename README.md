@@ -20,7 +20,7 @@ Gradient Boosting Regressor
 
 Standard Scaler
 
-Principle Component Analysis (PCA)
+Principal Component Analysis (PCA)
 
 
 Randomized Search CV (RSCV)
